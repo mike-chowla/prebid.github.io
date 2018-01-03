@@ -17,6 +17,9 @@ biddercode_longer_than_12: false
 ### Prebid Server Note:
 Before configuring the PubMatic adapter as S2S, you must reach out to the PubMatic team for approval and setup steps.
 
+### Prebid 1.0 Upgrade Note:
+If you upgrading from a Prebid version prior to 1.0, please reach out to your PubMatic Customer Success Manager prior to your upgrade.  Publisher accounts need new settings to function correctly with the PubMatic Prebid 1.0 adapter and your Customer Success Manager will ensure your account is setup correctly.
+
 ### bid params
 
 {: .table .table-bordered .table-striped }
