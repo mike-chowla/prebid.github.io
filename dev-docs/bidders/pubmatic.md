@@ -107,7 +107,8 @@ var videoAdUnits = [
 
 ### Configuration for video
 For Video ads, prebid cache needs to be enabled for PubMatic adapter.
-```
+
+```javascript
 pbjs.setConfig({
     debug: true,
     cache: {
@@ -115,3 +116,4 @@ pbjs.setConfig({
     }
 });
 ```
+<!-- workaround bug where code blocks at end of a file are incorrectly formatted-->
